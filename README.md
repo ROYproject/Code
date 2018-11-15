@@ -1,6 +1,6 @@
 Roy project
 
-Roy is a token that built on the AltHash blockchain. Roy starts with the token used in the shopping mall and will extends to the use of music lessons and psychological counseling. The reason for this is to reduce the speculative nature used only in the exchange and to create sustainable and stable demand outside the exchange as well as in real life.
+Roy is a token that built on the AltHash blockchain. Roy starts with the token used in the shopping mall and will extends to the use of music and psychological counseling. The reason for this is to reduce the speculative nature used only in the exchange and to create sustainable and stable demand outside the exchange as well as in real life.
 
 Although a corporation issues stocks and investors buy and sell stocks on the stock exchange, a corporation still earn a lot of money in life. When this happens, the value of stocks is more stable and higher. If a corporation were to be used only on the stock exchange, it would be more speculative and there would be many side effects such as inflation that are often seen in the cryptographic currency market today.
 
